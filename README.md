@@ -1,1 +1,5 @@
-[README.txt](https://github.com/user-attachments/files/19921163/README.txt)
+This project reqires the csv file from:
+https://www.kaggle.com/datasets/shengjunlim/singapore-mrt-lrt-stations-with-coordinates
+
+map of the stations:
+https://mrtmapsingapore.com/
